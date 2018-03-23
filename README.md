@@ -44,7 +44,7 @@ You still need a Google Dev. Project.
 `docker run -d -p 3000:3000 -e GOOGLE_CLIENT_ID='***' 
 -e GOOGLE_CLIENT_SECRET='***' 
 -e GOOGLE_REDIRECT_URL='***'
-mrigank11/embetacloud node server/server.js`
+sskgrcm/embetacloud node server/server.js`
 
 Fill `***` with appropriate values.
 
