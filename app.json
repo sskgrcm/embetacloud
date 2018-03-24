@@ -4,13 +4,13 @@
     "repository": "https://github.com/Mrigank11/embetacloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
-            "description": "Google Project's Client ID"
+            "description": "1062756439533-njl59tob7k2hbutqur17mj8ckh2q2g0n.apps.googleusercontent.com"
         },
         "GOOGLE_CLIENT_SECRET": {
-            "description": "Google Project's Client Secret"
+            "description": "KmrbGPRApOEIbJCaiYwR2Lfq"
         },
         "GOOGLE_REDIRECT_URL": {
-            "description": "Google Project's Redirect url"
+            "description": "http://123stream.xyz:3000/oauthCallback"
         }
     }
 }
